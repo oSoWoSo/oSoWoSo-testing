@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![void](/assets/img/void_bg_christmas.png)
 # Welcome to **vb**-**linux** temporary web
       We used arch BTW :D
@@ -75,3 +79,7 @@ zenobit [oSoWoSo](https://github.com/oSoWoSo)
 
 # LICENSE
 FOSS project under EUPL 1.2 license
+
+_yay_
+
+[back](./)
