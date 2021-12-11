@@ -1,4 +1,6 @@
 ---
 ---
 
-@import 'jekyll-theme-hacker';
+@import "{{ site.theme }}";
+
+#@import 'jekyll-theme-hacker';
