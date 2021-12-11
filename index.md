@@ -2,8 +2,4 @@
 layout: default
 ---
 
-Hello world!
-
-```
-The final element.
-```
+[vb-linux](./vb-linux.md).
