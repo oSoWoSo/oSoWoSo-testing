@@ -3,7 +3,7 @@ on:
   pull_request:
     types: [opened, synchronize]
 jobs:
-  build:
+  build: --trace
     runs-on: ubuntu-latest
     name: script/cibuild
     steps:
