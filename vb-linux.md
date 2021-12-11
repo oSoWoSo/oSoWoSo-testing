@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![void](/assets/img/void_bg_christmas.png)
+![void](/assets/images/void_bg_christmas.png)
 # Welcome to **vb**-**linux** temporary web
       We used arch BTW :D
 
@@ -30,7 +30,7 @@ Together with enough recent versions of packages and stability.
 
 So let's endorse [void](https://voidlinux.org/) a bit ...
 
-![void](/assets/img/void_fg_christmas.png)
+![void](/assets/images/void_fg_christmas.png)
 
 # **vb-linux/GNU**
 
@@ -75,7 +75,7 @@ Stay in touch ...
 
 zenobit [oSoWoSo](https://github.com/oSoWoSo)
 
-![merry christmas](/assets/img/void_bg_christmas.png)
+![merry christmas](/assets/images/void_bg_christmas.png)
 
 # LICENSE
 FOSS project under EUPL 1.2 license
