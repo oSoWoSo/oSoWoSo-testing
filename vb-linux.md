@@ -80,6 +80,4 @@ zenobit [oSoWoSo](https://github.com/oSoWoSo)
 # LICENSE
 FOSS project under EUPL 1.2 license
 
-_yay_
-
 [back](./)
