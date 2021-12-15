@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
-[vb linux](./vb-linux.md)
+[vb linux](./posts/vb-linux.md)[covid](./posts/covid.md)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
