@@ -16,3 +16,5 @@ In any a good, general textual news site, you can read the things you really wan
 # Keep calm and carry on!
 
 Copyright © 2020 Richard Stallman Verbatim copying and redistribution of this entire page are permitted provided this notice is preserved.
+
+[back](./)
