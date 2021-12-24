@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+[covid19](./posts/covid.md)
+
+[vb-linux](https://vb-linux.github.io)
+
+[zenobit's site](https://zenobit.gitlab.io)
+
+
 
 
 
