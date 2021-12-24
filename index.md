@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[covid19](./posts/covid.md)
+[covid19](./covid.md)
 
 [vb-linux](https://vb-linux.github.io)
 
