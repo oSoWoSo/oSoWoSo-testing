@@ -74,6 +74,7 @@ zenobit [oSoWoSo](https://github.com/oSoWoSo)
 ![merry christmas](/assets/img/void_bg_christmas.png)
 
 # LICENSE
-FOSS project under EUPL 1.2 license
+FOSS project licensed under
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 
 [back](./)
