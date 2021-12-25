@@ -12,11 +12,11 @@ layout: default
 
 ### repositories hosted on:
 - my personal gitea server
-- [codeberg.org](https://codeberg.org/oSoWoSo)
-- [disroot.org](https://git.disroot.org/oSoWoSo)
-- [gitlab.com](https://gitlab.com/osowoso)
-- [sourcehut](https://hg.sr.ht/~osowoso)
-- [github.com](https://github.com/oSoWoSo)
+- ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
+- ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
+- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
+- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
+- ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo)
 
 
 
