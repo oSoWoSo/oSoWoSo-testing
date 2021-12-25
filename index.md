@@ -18,3 +18,8 @@ layout: default
 
 _____________________________
 [covid19](./covid.md)
+
+
+_____________________________
+licensed under
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
