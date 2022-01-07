@@ -1,3 +1,53 @@
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# plugins:
+
+# Site settings
 theme: jekyll-theme-hacker
 title: oSoWoSo.xyz
+email: pm@osowoso.xyz
+long-title: open Source World Society
 description: open Source World Society
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://osowoso.github.io/oSoWoSo.xyz" # the base hostname & protocol for your site
+timezone: Europe/Prague
+year: 2022
+start-year: 2021
+sitemap: true
+
+# Social networks
+social-username:
+  github: "zen0bit"
+  gitlab: "zenobit"
+
+# Structure
+navigation:
+  - title: Projects
+    url: /projects
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Zenobit
+    url: /zenobit
+
+permalink: /:title/
+
+# Configure site collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
