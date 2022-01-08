@@ -12,12 +12,12 @@ plugins:
 
 # Site settings
 theme: jekyll-theme-hacker
-title: oSoWoSo.xyz
+title: "oSoWoSo"
 email: pm@osowoso.xyz
 long-title: open Source World Society
 description: open Source World Society
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://osowoso.github.io/oSoWoSo.xyz" # the base hostname & protocol for your site
+url: "https://oSoWoSo.xyz" # the base hostname & protocol for your site
 timezone: Europe/Prague
 year: 2022
 start-year: 2021
