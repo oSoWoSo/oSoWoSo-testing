@@ -1,5 +1,7 @@
 ---
 layout: default
+title: oSoWoSo - open Source World Society
+canonical_url: 'https://osowoso.xyz'
 ---
 
 # full-featured desktop operation system for anyone
