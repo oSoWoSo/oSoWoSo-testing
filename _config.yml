@@ -6,7 +6,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# plugins:
+# plugins
+plugins:
+ - jekyll-seo-tag
 
 # Site settings
 theme: jekyll-theme-hacker
